@@ -3,6 +3,3 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=burn-e-e&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burn-e-e&show_icons=true&theme=dark&locale=en&layout=compact"/>
-
-
-
