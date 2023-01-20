@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burnee</h1>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=burn-e-e&show_icons=true&theme=dark#gh-light-mode-only"/>
 <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burn-e-e&layout=compact"/>
-<img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/burn-e-e/burn-e-e/blob/output/github-contribution-grid-snake.svg"/>
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
