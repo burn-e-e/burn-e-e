@@ -13,10 +13,6 @@
 <img align="left" width="40%" src="https://steamuserimages-a.akamaihd.net/ugc/878624711068504012/D0C8B187C6D70CBF620E5DBFA1EE899CC714804C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 <img align="center" width="12.7%" src="https://media.tenor.com/VD-L5aopcuoAAAAM/mr-incredible-becoming-canny.gif"/>
 <img src="https://github.com/burn-e-e/burn-e-e/blob/main/burn.svg"/>
- <p align="center">
-     <img align="center" src="https://profile-counter.glitch.me/burn-e-e/count.svg" />
-               <br>
-     Times people visited my profile
-     </p>
+
 
 
